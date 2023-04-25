@@ -1,0 +1,71 @@
+SVG Drawer Application Help Contents
+====================================
+
+1. Introduction
+2. Drawing Shapes
+   2.1 Rectangle
+   2.2 Ellipse
+   2.3 Line
+   2.4 Freehand
+   2.5 Text
+3. Selecting, Multi-Selecting, and Moving Elements
+4. Resizing Elements
+5. Zooming and Panning
+6. Aligning Elements to the Grid
+7. Saving and Opening SVG Files
+8. Printing
+9. About
+
+1. Introduction
+---------------
+The SVG Drawer application is a user-friendly tool for creating and editing SVG images. This help document provides a comprehensive overview of the application's features and instructions on how to use them.
+
+2. Drawing Shapes
+-----------------
+To draw a shape, select the desired shape tool from the toolbar. The available shape tools include Rectangle, Ellipse, Line, Freehand, and Text.
+
+2.1 Rectangle
+-------------
+Select the Rectangle tool and click and drag on the canvas to create a rectangle. The initial point represents the top-left corner of the rectangle, while the end point represents the bottom-right corner. Release the mouse button to complete the shape.
+
+2.2 Ellipse
+-----------
+Select the Ellipse tool and click and drag on the canvas to create an ellipse. The initial point represents the top-left corner of the bounding box, while the end point represents the bottom-right corner. Release the mouse button to complete the shape.
+
+2.3 Line
+--------
+Select the Line tool and click and drag on the canvas to create a straight line. The initial point represents the start of the line, while the end point represents the endpoint. Release the mouse button to complete the shape.
+
+2.4 Freehand
+------------
+Select the Freehand tool and click and drag on the canvas to create a freehand path. As you move the mouse, the path will follow the cursor. Release the mouse button to complete the shape.
+
+2.5 Text
+--------
+Select the Text tool, enter the desired text in the text box on the toolbar, and click on the canvas to place the text. The text will appear at the clicked position on the canvas.
+
+3. Selecting, Multi-Selecting, and Moving Elements
+--------------------------------------------------
+To select an element, choose the Select tool from the toolbar and click on the desired element on the canvas. To move the selected element, click and drag it to the desired location. 
+
+To select multiple elements, hold the Ctrl key while clicking on the desired elements. To deselect an element, hold the Ctrl key and click on the already selected element. Selected elements can be moved together by clicking and dragging any of them.
+
+4. Resizing Elements
+--------------------
+Select an element using the Select tool. Click and drag the corners of the bounding box to resize the element. The element will maintain its aspect ratio by default. Hold the Shift key while resizing to freely adjust the aspect ratio.
+
+5. Zooming and Panning
+----------------------
+Use the scroll bar or hold the Ctrl key and scroll the mouse wheel to zoom in and out of the canvas. Click and drag the middle mouse button to pan the canvas.
+
+6. Aligning Elements to the Grid
+--------------------------------
+Elements will automatically align to the grid when moved. The grid can be toggled on and off using the Grid button on the toolbar. The grid helps in maintaining uniform spacing and alignment among elements.
+
+7. Saving and Opening SVG Files
+-------------------------------
+Use the Save and Open options in the File menu to save and open SVG files. These options allow you to work on your projects over multiple sessions and share your SVG files with others.
+
+8. Printing
+
+To print your SVG image, select the Print option from the File menu. This will open the Print dialog box, where you can select your printer and adjust print settings such as orientation and margins. You can also choose to print to a PDF file by selecting a PDF printer.
